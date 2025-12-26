@@ -1,0 +1,24 @@
+body{
+  font-family: Arial;
+  background-color: #52C9D6;
+}
+.heading{
+  margin-left: 100px;
+  margin-right: 100px;
+  color: red;
+}
+.welcome-txt{
+  margin-left: 30px;
+}
+.wel{
+  margin-left: 53px;
+}
+.sub-btn{
+  border: none;
+  border-radius: 3566px;
+  margin-top: 85px;
+  padding-left: 150px;
+  padding-right: 150px;
+  color: #fff;
+  background-color: orange;
+}
